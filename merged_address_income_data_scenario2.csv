@@ -1,0 +1,51 @@
+Address ID,Full Address,City,Average Monthly Income (PHP),Income Category
+1,"Baguio, Luzon, 237 Johnson Forge, 2600",Baguio,30000,Low
+2,"Pasig, Metro Manila, 63 Jones Circle, 1600",Pasig,60000,High
+3,"146 Robert Mill, 2600, Luzon, Baguio",Baguio,30000,Low
+4,890 Joshua Ford 1630 Taguig,Taguig,75000,High
+5,"386 Jose Centers, Davao City 8000 Mindanao",Davao City,35000,Middle
+6,"519 Jenkins Lodge, 1000, Metro Manila, Manila",Manila,70000,High
+7,666 Andrea Fields 1100 Quezon City,Quezon City,50000,Middle
+8,Metro Manila - Manila - 807 Adam Tunnel,Manila,70000,High
+9,505 Donovan Island 2600 Baguio,Baguio,30000,Low
+10,728 Johnson Rapids 9000 Cagayan de Oro,Cagayan de Oro,36000,Middle
+11,Metro Manila - Quezon City - 638 Christopher Spring,Quezon City,50000,Middle
+12,"Iloilo City, Visayas, 496 Amanda Springs, 5000",Iloilo City,32000,Low
+13,982 Kenneth Cape 1630 Taguig,Taguig,75000,High
+14,"125 Emily Fort, 1630, Metro Manila, Taguig",Manila,70000,High
+15,Visayas - Iloilo City - 293 Tammie Gardens,Iloilo City,32000,Low
+16,"99 Paul Shoal, 8000, Mindanao, Davao City",Davao City,35000,Middle
+17,Metro Manila - Taguig - 767 Bonnie Via,Manila,70000,High
+18,Metro Manila - Pasig - 260 James Inlet,Pasig,60000,High
+19,"683 Williams Groves, Davao City 8000 Mindanao",Davao City,35000,Middle
+20,"528 King Branch, 5000, Visayas, Iloilo City",Iloilo City,32000,Low
+21,Metro Manila - Quezon City - 591 Jessica Corners,Quezon City,50000,Middle
+22,Metro Manila - Manila - 55 Julia Loop,Manila,70000,High
+23,725 Novak Lakes 2600 Baguio,Baguio,30000,Low
+24,"169 Curry Route, Cagayan de Oro 9000 Mindanao",Cagayan de Oro,36000,Middle
+25,747 Brown Key 1100 Quezon City,Quezon City,50000,Middle
+26,636 Garcia Grove 1630 Taguig,Taguig,75000,High
+27,459 Lisa Groves 5000 Iloilo City,Iloilo City,32000,Low
+28,"593 Gary Circle, 1226, Metro Manila, Makati",Makati,80000,High
+29,776 Lopez Lodge 1000 Manila,Manila,70000,High
+30,"173 Nelson Valley, Baguio 2600 Luzon",Baguio,30000,Low
+31,"562 Smith Creek, 1226, Metro Manila, Makati",Makati,80000,High
+32,"Davao City, Mindanao, 869 Jessica Burg, 8000",Davao City,35000,Middle
+33,"567 Oscar Pike, Davao City 8000 Mindanao",Davao City,35000,Middle
+34,124 Clark Mountains 2600 Baguio,Baguio,30000,Low
+35,"418 Schmidt Junctions, Baguio 2600 Luzon",Baguio,30000,Low
+36,Metro Manila - Pasig - 160 Jacqueline Lights,Pasig,60000,High
+37,"37 Rodriguez Junction, 9000, Mindanao, Cagayan de Oro",Cagayan de Oro,36000,Middle
+38,Metro Manila - Quezon City - 981 Sharon Points,Quezon City,50000,Middle
+39,Mindanao - Cagayan de Oro - 148 Joseph Ville,Cagayan de Oro,36000,Middle
+40,"Quezon City, Metro Manila, 942 Katie Plaza, 1100",Quezon City,50000,Middle
+41,"Taguig, Metro Manila, 600 Thomas Ridge, 1630",Manila,70000,High
+42,"Cebu City, Visayas, 349 Frazier Plaza, 6000",Cebu City,40000,Middle
+43,"41 Wilson Junction, 1100, Metro Manila, Quezon City",Quezon City,50000,Middle
+44,Mindanao - Cagayan de Oro - 794 Stevens Ford,Cagayan de Oro,36000,Middle
+45,Visayas - Cebu City - 476 Mckinney Land,Cebu City,40000,Middle
+46,Metro Manila - Pasig - 239 Bradley River,Pasig,60000,High
+47,"654 Nichols Mission, Iloilo City 5000 Visayas",Iloilo City,32000,Low
+48,"Manila, Metro Manila, 798 Mcmahon Mews, 1000",Manila,70000,High
+49,Metro Manila - Makati - 221 Phillips Crossroad,Makati,80000,High
+50,"317 Gray Crossing, Makati 1226 Metro Manila",Makati,80000,High
